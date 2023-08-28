@@ -199,4 +199,8 @@
         flex: auto; /* Allow image to expand vertically */
         text-align: center;
     }
+
+    .body{
+        font-size: 23px;
+    }
 }
