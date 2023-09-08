@@ -14,7 +14,7 @@
     color:#1e3a5e;
 }
 
-.header-text{
+.main-title{
     font-size: 60px;
 
 }
@@ -121,18 +121,18 @@
     padding: 20px 0;
 }
 
-.navigation .list {
+.navigation-menu {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
-.navigation .list-item {
+.nav-item {
     display: inline;
     margin-right: 20px;
 }
 
-.navigation .links {
+.navigation-menu .links {
     text-decoration: none;
     color: #fff;
     font-weight: bold;
@@ -164,7 +164,7 @@
     overflow: hidden;
 }
 
-.event img {
+.event-image {
     width: 20em;
     height: auto;
 }
@@ -187,7 +187,7 @@
         font-size: 30px;
     }
 
-    .header-two {
+    .section-title {
         font-size: 20px;
     }
 
@@ -200,7 +200,7 @@
         text-align: center;
     }
 
-    .body{
+    .main-body{
         font-size: 23px;
     }
 }
