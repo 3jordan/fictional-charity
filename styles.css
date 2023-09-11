@@ -93,7 +93,7 @@
     list-style-type: square; /* Use square bullets */
 }
 
-#projects li {
+#projects .project-item {
     padding: 15px; 
     background-color: #fff;
     border-radius: 5px;
